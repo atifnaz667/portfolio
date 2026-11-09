@@ -23,7 +23,7 @@ const skillCategories = [
   {
     icon: BrainCircuit,
     title: "AI & Automation",
-    skills: ["LLM APIs", "AI content generation", "Product matching", "RAG", "AI Agents"],
+    skills: ["AI Agents", "LangChain", "LangGraph", "CrewAI", "MCP", "RAG", "OpenAI", "AI content generation"],
   },
   {
     icon: Wrench,

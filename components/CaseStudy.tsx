@@ -17,7 +17,7 @@ const caseDetails = [
   },
   {
     label: "My role",
-    text: "Built the entire product from scratch as the sole engineer. As the platform grew, led the team that scaled it — owning architecture decisions, the AWS pipeline, bulk backfill for thousands of videos per user, and AI-powered product matching.",
+    text: "Built the entire product from scratch as the sole engineer. As the platform grew, led the team behind it, owning architecture decisions, the AWS pipeline, bulk backfill for thousands of videos per user, and AI-powered product matching.",
   },
   {
     label: "Challenges",
@@ -25,7 +25,7 @@ const caseDetails = [
   },
   {
     label: "Results",
-    text: "10,000+ registered users, approximately 4,000 paying. Over 1 million posts published. Creators report their best months earning $12,000+ through cross-platform affiliate reach.",
+    text: "4,000+ paying subscribers and 10,000+ sign-ups. Over 1 million posts published. Creators report their best months earning $12,000+ through cross-platform affiliate reach.",
   },
 ];
 
@@ -50,7 +50,7 @@ export default function CaseStudy() {
                     Scaled Creator
                   </div>
                   <div className="mt-3 text-muted-foreground">
-                    Cross-platform affiliate automation for TikTok Shop creators.
+                    AI-powered affiliate automation for TikTok Shop creators.
                   </div>
                 </div>
               </div>

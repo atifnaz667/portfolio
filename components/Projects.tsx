@@ -7,18 +7,18 @@ const projectsData = [
   {
     title: "Scaled Creator",
     description:
-      "SaaS platform for TikTok Shop affiliate creators. Matches products across marketplaces using AI, auto-publishes to Instagram, Facebook and YouTube with affiliate links, handles comment-to-DM automation, and schedules posts. Built from scratch, then led the team as it grew.",
+      "AI-powered affiliate automation SaaS for TikTok Shop creators. Matches products across marketplaces using AI, auto-publishes to Instagram, Facebook and YouTube with affiliate links, handles comment-to-DM automation, and schedules posts. Built from scratch, then led the team as it grew.",
     tags: ["AWS Lambda", "SQS", "API Gateway", "Node.js", "PostgreSQL", "Docker"],
-    result: "10,000+ registered users · ~4,000 paying · 1M+ posts published",
+    result: "4,000+ paying subscribers · 10,000+ sign-ups · 1M+ posts published",
     badge: "SaaS · AI · AWS",
     link: "https://scaledcreator.com/",
   },
   {
     title: "DotSimple — Social Media SaaS",
     description:
-      "Austrian B2B social media management platform. Built the core managed posting system: upload once and publish to every connected platform, scheduling, best-time-to-post auto-publishing per user timezone, and AI post generation with variations.",
+      "Austrian B2B social media management platform. Built the core managed posting system: upload once and publish to every connected platform, scheduling, best-time-to-post auto-publishing per user timezone, and AI post generation with variations. Also built integrations with Pipedrive CRM and Zapier.",
     tags: ["Laravel", "Vue.js", "MySQL", "Redis", "AWS SQS"],
-    result: "350+ customers · production since 2022",
+    result: "350+ B2B customers",
     badge: "SaaS · Social Platforms",
     link: "https://dotsimple.io",
   },
@@ -39,15 +39,6 @@ const projectsData = [
     result: "Production · real-time at scale",
     badge: "Real-time · WebSockets",
     link: "https://intelligentcontacts.com",
-  },
-  {
-    title: "Modular E-Commerce Platform",
-    description:
-      "Custom headless commerce with multi-vendor support, real-time inventory, and Stripe payments.",
-    tags: ["Next.js", "Node.js", "PostgreSQL", "Stripe", "Docker"],
-    result: "Multi-tenant · production",
-    badge: "E-commerce · Full Stack",
-    link: "https://arvion.style",
   },
 ];
 

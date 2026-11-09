@@ -5,24 +5,24 @@ import AnimatedSection from "./AnimatedSection";
 const experiences = [
   {
     period: "Jan 2024 — Present",
-    role: "Senior Software Engineer, Team Lead",
+    role: "Senior Software Engineer (Tech Lead)",
     company: "Techleadz",
     points: [
-      "Lead a team of 10+ developers across several client products for US-based clients.",
-      "Main technical contact for clients: scoping, estimates, demos and roadmap calls.",
-      "Architected an event-driven posting and webhook pipeline on AWS (API Gateway, SQS, Lambda) for a creator automation SaaS serving 10,000+ users.",
-      "Built bulk backfill jobs that process thousands of historic videos per new user without slowing the live app.",
-      "Shipped AI features including cross-marketplace product matching and AI-powered content generation.",
+      "Lead a team of 10+ developers across several SaaS products for US clients, and act as the main technical contact for scoping, estimates, demos and roadmap calls.",
+      "Built Scaled Creator from scratch as the sole engineer, then led the team that grew it to 4,000+ paying subscribers and 1M+ published posts.",
+      "Designed the posting and webhook pipeline on AWS (API Gateway, SQS, Lambda), plus bulk backfill jobs that process 7,000 to 8,000 historic videos per new user without slowing the live app.",
+      "Cut response times by 35% through Redis caching, query optimization and load balancing.",
+      "Set up CI/CD with GitHub Actions and production error monitoring with Sentry.",
     ],
   },
   {
-    period: "2023",
-    role: "Team Lead",
+    period: "Jan 2023 — Dec 2023",
+    role: "Senior Software Engineer",
     company: "Econex",
     points: [
-      "Managed a team of engineers across full-stack and DevOps.",
-      "Delivered major product releases on time with consistent quality.",
-      "Introduced Docker containerization and CI/CD pipelines with GitHub Actions.",
+      "Led a full-stack team building an ERP system, a property management system and an e-commerce platform.",
+      "Ran sprint planning and shipped major releases on schedule.",
+      "Introduced code review standards, Docker and CI/CD pipelines, reducing production bugs by 30%.",
     ],
   },
   {
@@ -30,8 +30,8 @@ const experiences = [
     role: "Full Stack Developer",
     company: "Koncept Solutions",
     points: [
-      "Built end-to-end web applications for e-commerce and fintech clients.",
-      "Developed RESTful APIs and SPAs with Laravel and Vue.js.",
+      "Built web applications for e-commerce, SaaS and business management clients with Laravel, Vue.js and React.",
+      "Built REST APIs and SPAs for client products.",
       "Integrated payments, messaging and shipping APIs to automate business workflows.",
     ],
   },

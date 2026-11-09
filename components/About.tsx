@@ -6,7 +6,7 @@ import AnimatedSection from "./AnimatedSection";
 const stats = [
   { value: "5.5", suffix: "+", label: "Years experience" },
   { value: "10", suffix: "+", label: "Engineers led" },
-  { value: "10k", suffix: "+", label: "Users on platform" },
+  { value: "4,000", suffix: "+", label: "Paying subscribers" },
   { value: "15", suffix: "+", label: "Production projects" },
 ];
 
@@ -54,8 +54,8 @@ export default function About() {
                 </span>
                 : products that publish to several platforms at once, process thousands
                 of videos per user, and handle bursts of webhooks without falling over.
-                I build the AI parts too — from content generation to matching products
-                across marketplaces.
+                I build the AI parts too, from content generation and product matching
+                to AI agents and RAG with LangChain, LangGraph and MCP.
               </p>
               <p>
                 I design event-driven architectures on AWS (Lambda, SQS, API Gateway),
