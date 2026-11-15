@@ -77,7 +77,7 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 0.35 }}
               className="mt-4 font-mono text-xs uppercase tracking-widest text-foreground/80"
             >
-              5.5+ years · Leads 10+ engineers · 4,000+ paying subscribers · AWS
+              6 years · Leads 10+ engineers · 4,000+ paying subscribers · Remote, US/EU time zones
             </motion.p>
 
             <motion.div

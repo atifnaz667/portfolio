@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Atif Naz — Tech Lead & Senior Full-Stack Engineer: SaaS, AI & AWS",
   description:
-    "Tech Lead & Senior Full-Stack Engineer. I lead a team of 10+ engineers, build scalable SaaS products on AWS, and deliver AI-powered automation. 5.5+ years. Available for contracts, agencies & leadership roles.",
+    "Tech Lead & Senior Full-Stack Engineer. I lead a team of 10+ engineers, build scalable SaaS products on AWS, and deliver AI-powered automation. 6 years. Available for contracts, agencies & leadership roles.",
   authors: [{ name: "Atif Naz" }],
   openGraph: {
     title: "Atif Naz — Tech Lead & Senior Full-Stack Engineer: SaaS, AI & AWS",

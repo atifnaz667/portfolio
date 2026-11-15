@@ -8,10 +8,10 @@ const experiences = [
     role: "Senior Software Engineer (Tech Lead)",
     company: "Techleadz",
     points: [
-      "Lead a team of 10+ developers across several SaaS products for US clients, and act as the main technical contact for scoping, estimates, demos and roadmap calls.",
+      "Lead a team of 10+ developers on SaaS products for US clients and act as the main technical contact for scoping, estimates, demos and roadmap calls.",
       "Built Scaled Creator from scratch as the sole engineer, then led the team that grew it to 4,000+ paying subscribers and 1M+ published posts.",
-      "Designed the posting and webhook pipeline on AWS (API Gateway, SQS, Lambda), plus bulk backfill jobs that process 7,000 to 8,000 historic videos per new user without slowing the live app.",
-      "Cut response times by 35% through Redis caching, query optimization and load balancing.",
+      "Designed the serverless posting and webhook pipeline on AWS (API Gateway, SQS, Lambda) on the Meta Graph and YouTube Data APIs, plus backfill jobs that ingest 7,000 to 8,000 videos per new user without slowing the app.",
+      "Cut API response times by 35% through Redis caching, query optimization and load balancing.",
       "Set up CI/CD with GitHub Actions and production error monitoring with Sentry.",
     ],
   },

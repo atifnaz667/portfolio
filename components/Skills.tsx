@@ -13,12 +13,12 @@ const skillCategories = [
   {
     icon: Cloud,
     title: "Cloud & DevOps",
-    skills: ["AWS Lambda", "SQS", "API Gateway", "Docker", "GitHub Actions", "Sentry", "Redis"],
+    skills: ["AWS Lambda", "SQS", "API Gateway", "Serverless", "Docker", "Git", "GitHub Actions", "Sentry", "Redis", "Vercel"],
   },
   {
     icon: Layers,
     title: "Full-Stack",
-    skills: ["Laravel", "Node.js", "Next.js", "React", "Vue.js", "FastAPI", "PostgreSQL", "MySQL"],
+    skills: ["Laravel", "Node.js", "Express.js", "Next.js", "React", "Vue.js", "FastAPI", "PostgreSQL", "MySQL", "PHPUnit", "pytest"],
   },
   {
     icon: BrainCircuit,
@@ -28,7 +28,7 @@ const skillCategories = [
   {
     icon: Wrench,
     title: "Integrations",
-    skills: ["TikTok", "Instagram", "Facebook", "YouTube APIs", "Stripe", "Pipedrive", "Zapier", "Webhooks"],
+    skills: ["TikTok", "Meta Graph API", "YouTube Data API", "Stripe", "Pipedrive", "Zapier", "Webhooks"],
   },
 ];
 
