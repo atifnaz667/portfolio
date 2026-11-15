@@ -14,7 +14,7 @@ const projectsData = [
     link: "https://scaledcreator.com/",
   },
   {
-    title: "DotSimple — Social Media SaaS",
+    title: "DotSimple: Social Media SaaS",
     description:
       "Austrian B2B social media management platform. Built the core managed posting system: upload once and publish to every connected platform, scheduling, best-time-to-post auto-publishing per user timezone, and AI post generation with variations. Also built integrations with Pipedrive CRM and Zapier.",
     tags: ["Laravel", "Vue.js", "MySQL", "Redis", "AWS SQS"],
@@ -32,10 +32,19 @@ const projectsData = [
     link: "",
   },
   {
+    title: "Rolecraft",
+    description:
+      "Human-in-the-loop job search SaaS. Collects roles from public job APIs, scores fit, and drafts tailored resumes and cover letters with the Claude API. A Chrome extension prefills application forms for a person to review and submit. Multi-tenant from day one.",
+    tags: ["Next.js", "TypeScript", "PostgreSQL", "Claude API", "Puppeteer", "Vercel"],
+    result: "Personal project · in daily use",
+    badge: "AI · SaaS · Chrome extension",
+    link: "",
+  },
+  {
     title: "Intelligent Chat",
     description:
       "Enterprise real-time messaging platform with presence, read receipts, and file sharing.",
-    tags: ["Node.js", "Socket.io", "React", "MongoDB", "Redis"],
+    tags: ["Node.js", "Socket.IO", "React", "MongoDB", "Redis"],
     result: "Production · real-time at scale",
     badge: "Real-time · WebSockets",
     link: "https://intelligentcontacts.com",

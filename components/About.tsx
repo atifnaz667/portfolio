@@ -4,7 +4,7 @@ import { Sparkles } from "lucide-react";
 import AnimatedSection from "./AnimatedSection";
 
 const stats = [
-  { value: "5.5", suffix: "+", label: "Years experience" },
+  { value: "6", suffix: "", label: "Years experience" },
   { value: "10", suffix: "+", label: "Engineers led" },
   { value: "4,000", suffix: "+", label: "Paying subscribers" },
   { value: "15", suffix: "+", label: "Production projects" },
@@ -42,7 +42,7 @@ export default function About() {
                 lead and senior full-stack engineer based in Lahore, Pakistan, working
                 remotely with US, UK and European teams. With{" "}
                 <span className="text-foreground">
-                  5.5+ years of hands-on experience
+                  6 years of hands-on experience
                 </span>
                 , I lead a team of 10+ developers, act as the main technical contact
                 for clients, and own architecture and releases.
